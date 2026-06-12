@@ -55,55 +55,55 @@ Support management decision-making using data
 
 # Category Profitability Analysis
 
-Revenue by category
-Profit by category
-Margin comparison
+- Revenue by category
+- Profit by category
+- Margin comparison
 
 
 # Brand Performance Analysis
 
-Revenue ranking
-Profit contribution
-Margin analysis
+- Revenue ranking
+- Profit contribution
+- Margin analysis
 
 
 # Customer Analytics
 
-Loyal vs Regular customers
-Revenue contribution
-Average bill value comparison
+- Loyal vs Regular customers
+- Revenue contribution
+- Average bill value comparison
 
 
 # City Performance Analysis
 
-Revenue by city
-Profit by city
-Geographic performance comparison
+- Revenue by city
+- Profit by city
+- Geographic performance comparison
 
 
 # Channel Analysis
 
-Online vs Offline vs Omnichannel performance
+- Online vs Offline vs Omnichannel performance
 
 
 # Inventory Risk Analysis
 
-Products below reorder level
-Stock deficit evaluation
-Replenishment priorities
+- Products below reorder level
+- Stock deficit evaluation
+- Replenishment priorities
 
 
 # Monthly Trend Analysis
 
-Revenue trends
-Profit trends
-Order volume trends
+- Revenue trends
+- Profit trends
+- Order volume trends
 
 
 # Pareto Analysis
 
-Brand revenue contribution
-Revenue concentration assessment
+- Brand revenue contribution
+- Revenue concentration assessment
 
 
 
